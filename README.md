@@ -1,9 +1,9 @@
 # HangmanVB-SQLite
 
-Hangman desktop game developed with VB.NET and SQLite database integration.
+Hangman desktop game developed with VB.NET and Access database integration.
 
 ## Features
-- Word management using SQLite
+- Word management using Access
 - Random word selection
 - Letter checking system
 - Score and game logic
@@ -12,7 +12,7 @@ Hangman desktop game developed with VB.NET and SQLite database integration.
 ## Technologies
 - VB.NET
 - Windows Forms
-- SQLite
+- Access
 - Visual Studio
 
 ## Author
